@@ -1,10 +1,10 @@
 # Project3
 
-Project Description:
+<h2>Project Description:</h2>
 
  
 
-<h2>Part 1 Validation</h2>
+<h3>Part 1 Validation</h3>
 
 <p>Create a class with a method that accepts a charge account number as its argument and save ValidatorYourLastName.java. The method should determine whether the number is valid by comparing it to the following list of valid charge account numbers:
 </p>
@@ -44,7 +44,7 @@ Project Description:
 <p>Lastly, modify the program you wrote so it performs a binary search to locate valid account numbers. Use your choice of sorting algorithm to sort the array before the binary search is performed.
 </p>
 
-<h2>Part 2 Sorting</h2>
+<h3>Part 2 Sorting</h3>
 
 <p>Implement the recursive algorithm for array-based merge sort. Write a demo program to test the merge sort implementation. Save the files as MergeSortRecursiveYourlastname.java and DriverMSRecursiveYourlastname.java.
 </p>
